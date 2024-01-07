@@ -13,3 +13,5 @@ do
     git commit -m "Modified $file"
 done
 
+git push
+
